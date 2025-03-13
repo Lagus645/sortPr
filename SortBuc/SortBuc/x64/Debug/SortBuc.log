@@ -1,0 +1,19 @@
+﻿  SortBuc.cpp
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(20,31): error C2131: выражение не определяется константой
+      C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(20,31):
+      сбой вызван чтением переменной вне срока ее существования
+      C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(20,31):
+      см. использование "n"
+  
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(20,11): error C2148: общий размер массива не должен превышать 0x7fffffff байт
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(25,25): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(26,56): error C3863: тип массива "float [n]" является неназначаемым
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(32,23): error C2036: float (*)[n]: неизвестный размер
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(39,28): error C2036: float (*)[n]: неизвестный размер
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(45,21): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(45,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(45,33): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(45,39): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(45,45): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(45,51): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Semyon\source\repos\SortBuc\SortBuc\SortBuc.cpp(45,57): warning C4305: инициализация: усечение из "double" в "float"
